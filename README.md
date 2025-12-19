@@ -1,6 +1,6 @@
 # nextjs-hardware-tracker
 
-**nextjs-hardware-tracker** is a personal PC hardware management app built with **Next.js**, **Prisma**, and **TypeScript**.
+**nextjs-hardware-tracker** is a personal PC hardware management app built with **Next.js**, **Prisma**, **TypeScript** and **Tailwind CSS + DaisyUI**.
 
 It allows users to track their PC components, manage builds, and organize their hardware collection. This project is currently in development.
 

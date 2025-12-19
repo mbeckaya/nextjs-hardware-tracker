@@ -9,11 +9,14 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "daisyui": "^5.5.14",
     "next": "16.0.10",
     "react": "19.2.1",
-    "react-dom": "19.2.1"
+    "react-dom": "19.2.1",
+    "tailwindcss": "^4.1.18"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.18",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
